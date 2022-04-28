@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Meow Warriors";
 const description = "Welcome to the Meow Warriors army. Your warrior is unique. He is created from 890 layers";
-const baseUri = "ipfs://bafybeiadrd5g3rhiwqpycg4vihpqlads3yxybkwivf76khkckpl53tyyzi"; // This will be replaced automatically
+const baseUri = "https://ipfs.io/ipfs/bafybeiadrd5g3rhiwqpycg4vihpqlads3yxybkwivf76khkckpl53tyyzi"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
